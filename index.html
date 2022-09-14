@@ -75,15 +75,9 @@
     let empty_box = document.querySelector(".empty-box");
     let icon1 = document.querySelector(".icon1");
     let icon2 = document.querySelector(".icon2");
-    empty_box.addEventListener('click',(event)=>{
+    document.addEventListener('click',empty_box,(event)=>{
       empty_box.classList.add('hide');
-    },false);
-    icon1.addEventListener('click',(event)=>{
-      icon1.classList.add('hide');
-    },false);
-    icon2.addEventListener('click',(event)=>{
-      icon2.classList.add('hide');
-    },false);
+    })
   </script>
 </body>
 </html>
