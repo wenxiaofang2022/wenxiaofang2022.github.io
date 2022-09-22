@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/caselist/detail", {data:[{}],fetch:{},mutations:[]});
