@@ -2282,29 +2282,463 @@
     ]
   },
   "goodlife":{
-    "contentauthor":"",
-    "source":[],
-    "bottomauthor":[]
+    "contentauthor":"JAN.13.2022 -<br/>KASAKII<br/>MUSHROOM GOOD LIFE<br/>KASAKII -",
+    "source":[{
+      "type":"text",
+      "contenttext":[
+        
+      ]
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit01.gif",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit02.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit03.gif",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit04.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit05.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit06.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit07.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit08.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit09.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit10.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit11.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit12.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit13.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit14.gif",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit15.gif",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit16.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit17.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit18.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit19.gif",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit20.gif",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit21.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit22.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit23.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit24.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit25.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit26.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit27.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit28.jpg",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit29.jpg",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit30.jpg",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit31.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit32.jpg",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit33.jpg",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit34.jpg",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit35.jpg",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit36.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit37.jpg",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit38.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit39.jpg",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit40.jpg",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit41.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit42.jpg",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit43.jpg",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit44.jpg",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit45.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit46.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit47.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit48.png",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit49.gif",
+      "tit":null
+    }],
+    "bottomauthor":[
+      "KASASKII 卡卅",
+      "KASAKII「Good Life•Kasakii Fortune Mushroom」Spring Festival Gift 2022｜KASAKII菇得来福新年礼物 2022<br/>Departure Time｜Oct.18, 2021~ Jan.13, 2022",
+      "Project Director - 刘滨 I BINL<br/>Business Director - 尼尼鸭｜NINI<br/>Creative Planners - 瑨二｜Jin / 车厘子姐｜Cherry / 马俊｜Paoss<br/>Designer - 马俊｜Paoss<br/>llustrators - 马俊｜Paoss / 加一｜JOJOYI<br/>Copywriter - 米露淇｜Mickey<br/>Animator - 宝贝臭鸡｜Jared Lam<br/>CGI Designers- 烦烦｜FANNI / 翟军｜JUN / 尚齐｜Sanki"
+    ]
   },
   "nostop2021":{
-    "contentauthor":"",
-    "source":[],
-    "bottomauthor":[]
+    "contentauthor":"MAR.20.2021 -<br/>KASAKII<br/>NON-STOP SERVICE 2021<br/>KASAKII -",
+    "source":[{
+      "type":"text",
+      "contenttext":[
+        "2020年，我们联合了身边的艺术家朋友，一起开创了节日不打烊系列。2021年，节日不打烊普遍出现人传人现象，艺术家朋友们一传十，十传百，让节日不打烊系列遍地开花，枝繁叶茂。今年的节日，既有稀奇古怪的，也有意义重大的。在这些奇怪节日的基础上，艺术家们也从自己天马行空的角度进行了解读。"
+      ]
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit01.jpg",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit02.gif",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit03.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"世界无肉日 @Lkuzo<br/>世界无肉日目的是拯救动物、保护环境和改善健康。艺术家 @Lkuzo 把两位主角刻画成为食草动物，表达这一天人们应以素食为主，尝试健康、天然的饮食方式，并进一步促进全球减碳和可持续发展。"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit04.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"世界戏剧日 @PMX<br/>世界戏剧日由国际戏剧协会创立，旨在引起全世界人民对戏剧艺术的重视。疫情的影响让剧场表演停摆许久，艺术家 @PMX 刻画了戏剧文化中的一些经典形象，希望剧场表演可以尽早复苏，热爱戏剧的观众们都能早日走进剧场，观看自己热爱的表演。"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit05.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"世界舞蹈日 @YIN<br/>世界舞蹈日的设立，是为了唤起人们对于舞蹈文化的关注和热爱。艺术家 @YIN 呈现了聚光灯下两位舞者肆意的舞姿，希望被工作压得喘不过气的都市青年，都可以在舞池中释放自己、热爱自己。"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit06.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"荷兰蘑菇日 @Lio<br/>蘑菇日是荷兰特有的节日，在荷兰这个开放的国度，有很多不可思议的东西，比如特殊蘑菇。艺术家 @Lio 展现的画面，就是模拟服用特殊蘑菇后进入的奇幻世界。我们在当时的发布文案中也故意让语法错乱，希望展现奇妙的蘑菇世界。"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit07.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"世界无童工日 @ZPROO<br/>世界无童工日旨在呼吁各国关注童工问题，希望消除全球范围内的童工现象。艺术家 @ZPROO 刻画了一大一小两个表示拒绝的形象。大的是成年善财童子，作为资深童工的他，对童工现象自然深恶痛绝。小的是被迫营业的小丑，说“哒咩”要从孩子做起！"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit08.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"世界滑板日 @Paoss<br/>世界滑板日由IASC发起，希望滑板运动得到普及和支持，希望更多人加入滑板运动。作为滑板爱好者的艺术家 @Paoss，创作了一个正在玩滑板的帅气身影。“小心地滑”的告示牌也被改画成滑板小人，轻松随意的画风或许就在说滑板精神——快乐就完事啦！"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit09.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"彝族火把节 @ZPROO<br/>火把节是彝族等少数民族的传统节日，包含着少数民族人民趋吉避凶的朴素祝愿。艺术家 @ZPROO 基于现下全民抗疫的斗志，把Sakii画成消灭病毒的火焰，旨在鼓励大家团结抗疫，战胜当前的全球大敌。"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit10.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"世界左撇子日 @小保伟<br/>在历史上，左撇子曾因惯用手差异而被视为残疾或精神疾病。世界左撇子日的设立，是希望促进在日常生活工具的设计上，重视左撇子的权益。艺术家 @小保伟，别出心裁地把两个人的左右手画成重合，以此表达左撇子与常人无异，希望消除对左撇子的认知偏差。"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit11.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"方便面纪念日 @BoilingMan<br/>1958年8月25日，方便面正式面世。艺术家 @BoilingMan 用独特的风格，呈现了一碗豪华加料方便面，描绘了沉浸在方便面中的体验，仿佛畅游了美味海洋的感受。"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit12.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"哆啦A梦诞生日 @Jojoyi<br/>哆啦A梦诞生于未来的2112年9月3日，这一天是他-91岁生日。<br/><br/>艺术家 @Jojoyi 把蓝胖子画成了一台扭蛋机，除了它本身就充满着惊喜，或许还想表达：生活有无数种可能性，每个人都有机会成为哆啦A梦！"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit13.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"世界分手日 @Fanni<br/>世界分手日源于网友对于9月13日谐音“就要散”的恶搞。艺术家 @Fanni 用暴力美学的方式，呈现荆棘刺破糖果的残酷。但同时也想传达：爱情不是人生的全部，糖的甜蜜可以治愈分手的苦涩，继续好好生活。"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit14.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"全国爱牙日 @Choco<br/>爱牙日的宗旨是增强口腔健康观念，普及口腔保健知识，进行牙病预防。艺术家 @Choco 刻画了“护牙三姐妹”形象，并配备各种护牙产品。现代丰富的饮食环境，也成了滋养牙病的温床，一定要好好护牙哦！"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit15.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"世界出柜日 @Seebin<br/>世界出柜日旨在庆贺那些公开确认自己是性少数派的个体。艺术家 @Seebin 刻画了一群同样身型、不同面部特征的人，表达性少数群体并非洪水猛兽，只是与别人稍许不同，无需用有色眼镜看待，每个人有热爱生活、大胆出柜的自由。"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit16.gif",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"世界美容日 @发生再周二<br/>世界美容日旨在促进人们对美发美容问题的理解，动员人们支持美发美容事业的发展。艺术家 @发生再周二 另辟蹊径，选取了被丢弃的生活垃圾作为美容主体，让它摇身一变有了新的生命。以此更广义地诠释了“美容”精神——通过美容获得新生。"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit17.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"国际宽容日 @MozkitoLeee<br/>国际宽容日旨在强调在多元化社会里，应注重不同民族、宗教和文化间的宽容与和谐相处。艺术家 @MozkitoLeee 展现了冲突发生的瞬间，表达恶劣后果的起因，是双方没有选择宽容，从反面角度传达节日主旨。"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit18.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"世界厕所日 @魏一目<br/>世界厕所日由世界厕所组织设立，旨在关注贫困地区居民的如厕困难问题，希望全世界共同努力改善环境卫生。艺术家 @魏一目 巧妙地选取了上厕所和好友通话的小细节，表达能干净卫生地如厕也是一种幸福，可以让我们毫无禁忌地与亲密的人分享。"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit19.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"世界问候日 @Jared Lam<br/>世界问候日是为促进埃及与以色列之间的和平而设立，旨在向全世界祈祷和平。艺术家 @Jared Lam 选择从反面解读了「问候」的深层含义：彩色的手机代表我们在互联网世界里亲切友好的那一面，灰白色的现实代表我们在现实中对亲密朋友不拘礼节的那一面。"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit20.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"猴子自助餐节 @Lio & @Jared<br/>猴子自助餐节是泰国华富里市的一个特色节日，这座城市为了感谢猴子带来的旅游业收入，会在这一天请它们饱餐一顿。艺术家 @Lio 和 @Jared 以硬纸椅子为画板，绘制了猴子们大快朵颐的场景，并邀请KASAKII的名誉HR欧欧坐在椅子上拍照，表达KASAKII对欧欧有着同样的感谢。"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit21.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"国际儿童电视广播日 @Dalezi<br/>国际儿童电视广播日的宗旨是希望传媒机构能于当日制作一些以儿童为主的电视或电台节目，借此能唤起人们对儿童的关怀、关注。艺术家 @Dalezi 用积木代表孩子的“创造性”，呼吁即使长成了大人，也不要忘记小时候的创造力。"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit22.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"国际山岳日 @Bufo<br/>国际山岳日是以促进对保护山岳生态系统的认识，进一步了解贫困山区居民的节日。艺术家 @Bufo 关注到山区地形限制了交通工具，人力背篓成为搬运的主要途径，于是刻画了山区少年与动物和谐共处的画面，表达人与自然和谐发展的期望。"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit23.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"拥抱情人节 @梅雪堡xy<br/>拥抱情人节提倡情侣在公开场合拥抱，向世人宣告两人之间的爱意。艺术家 @梅雪堡xy 从“拥抱”这一关键词入手，着重刻画爱侣之间丝丝入扣的拥抱动作细节，放大拥抱所传递的爱意。"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit24.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"国际人类团结日 @Cheakie<br/>国际人类团结日是为了纪念联合国第一个消除贫穷十年而创立，旨在促进人类团结。艺术家 @Cheakie 从“消除偏见”角度解读，选取了不同衣着、种族、兴趣的人相拥在一起，表达求同存异、共同精彩的含义。"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit25.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"2021年，22张节日不打烊贺图就像一笔笔亮色，涂抹在忙碌的工作日历上，点亮了那些看似普通的日子。"
+    },{
+      "type":"img",
+      "src":"/image/works/nostop2021/tit26.jpg",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":"感谢所有合作艺术家，在节日本身的意义之上，用自己对节日的独特感受，丰富了节日的含义"
+    }],
+    "bottomauthor":[
+      "KASAKII 卡卅",
+      "2021 Non-Stop Service | 2021 节日不打烊系列贺图Departure Time | Mar.20, 2021 ~ Dec.20, 2021",
+      "Project Directors - 刘滨｜BINL / 尼尼鸭 | NINI<br/>Project Manager - 马特 | Jiaxi<br/>Artists - Paoss / YIN / PMX / Jojoyi / Lio / Jared Lam / Fanni / Cheakie / 梅雪堡xy / MozkitoLeee / Dalezi / 魏一目 / Bufo / 发生再周二 / Seebin / Choco / BoilingMan / 小保伟 / ZPROO / Lkuzo<br/>Copywriter - 米奇 | Mickey<br/>Designer - 沛敏｜PMX<br/>Editors - 米奇 | Mickey / 沛敏 | PMX / 兽兽 | Paoss"
+    ]
   },
   "utalent":{
-    "contentauthor":"",
-    "source":[],
-    "bottomauthor":[]
+    "contentauthor":"MAY.12.2022 -<br/>TMALL<br/>U , ARTISTIC TALENT<br/>KASAKII -",
+    "source":[{
+      "type":"text",
+      "contenttext":[
+        
+      ]
+    },{
+      "type":"video",
+      "src":"/image/works/goodlife/tit01.mp4",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit02.gif",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":""
+    }],
+    "bottomauthor":[
+      "KASAKII卡卅",
+      "TMALL UIN「U, Artistic Talent」TVC & Posters｜天猫小黑盒有瘾「U,天生艺术」TVC 及海报<br/>Departure Time | Jan.26, 2022 ~ Apr.19, 2022",
+      "Project Director - 刘滨｜BINL<br/>Business Director - 尼尼鸭 ｜NINI<br/>Creative Planner - 西歪 ｜Cherry / 瑨二 ｜Jin<br/>Designer - 蔡永乾｜YIN / 马俊 ｜Paoss / 沛敏｜PMX / 张晨｜ZC<br/>Copywriter – 米露淇｜Mickey<br/>CGI Designer - 尚齐｜Sanki<br/>Video Production Team - 添 / 梦飞 / 婷婷 / 景 / 诗 / 谭谭峰 / 波波 / 子君 / 伟仔 / 猴哥 / 君君 / 颜舒 / Meggie / 大师兄 / zengya<br/>Post-Production Team - 尚齐｜Sanki / 博宇 / 正昊 / 武玄 / Jessie / Colorzone<br/>Editors - 蔡永乾｜YIN / 果果｜Berry"
+    ]
   },
   "tmallnew":{
-    "contentauthor":"",
-    "source":[],
-    "bottomauthor":[]
+    "contentauthor":"JAN.24.2022 -<br/>TMALL<br/>TMALL SUPER NEW STAR<br/>KASAKII -",
+    "source":[{
+      "type":"text",
+      "contenttext":[
+        
+      ]
+    },{
+      "type":"video",
+      "src":"/image/works/goodlife/tit01.mp4",
+      "tit":null
+    },{
+      "type":"img",
+      "src":"/image/works/goodlife/tit02.gif",
+      "tit":null
+    },{
+      "type":"tips",
+      "tit":""
+    }],
+    "bottomauthor":[
+      "KASAKII 卡卅",
+      "2021 TMALL Super New Stars｜2021天猫宝藏新品牌奖NFT<br/>Departure Time Jan.05, 2022 ~ Jan.24, 2022",
+      "Project Director - 刘滨｜BINL<br/>Business Director - 尼尼鸭｜NINI<br/>Account Manager - 葛正翔｜XX<br/>Creative Planner - 烦烦｜Fanni<br/>3D Designers - 烦烦｜Fanni / 翟军｜JUN / 尚齐｜Sanki / 阿水｜Ness / 刘兰尼｜ Lenny<br/>Designer - Jeh｜Awa / 蔡永乾｜YIN<br/>Copywriter - 米露淇｜Mickey<br/>Editors - Jeh｜Awa / 米露淇｜Mickey"
+    ]
   },
   "taobaotop":{
-    "contentauthor":"",
+    "contentauthor":"DEC.21.2022 -<br/>TAOBAO<br/>TAOBAO TOP 10 PRODUCTS 2021<br/>KASAKII -",
     "source":[],
-    "bottomauthor":[]
+    "bottomauthor":[
+      "KASAKII 卡卅",
+      "2021 TAOBAO Top 10 Products Posters | 2021淘宝年度十大商品海报<br/>Departure Time｜Dec.15, 2021 ~ Dec.21, 2021",
+      "Project Director - 刘滨｜BINL<br/>Business Director - 尼尼鸭 | NINI<br/>Account Manager - 耳总 | SUKKI<br/>Creative Planner - 烦烦 | Fanni<br/>3D Designers - 烦烦 | Fanni / 翟军 | Z&J / 尚齐 | Sanki / 阿水 | Ness / 静痕 | JHEN<br/>Designer - 蔡永乾 | YIN<br/>Editors - 米露淇 | Mickey / 蔡永乾 | YIN"
+    ]
   },
   "oppoo.moji":{
     "contentauthor":"",
