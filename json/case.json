@@ -2971,9 +2971,93 @@
     ]
   },
   "oppoo.moji":{
-    "contentauthor":"",
-    "source":[],
-    "bottomauthor":[]
+    "contentauthor":"AUG.30.2022 -<br/>OPPO<br/>OMOJI TVC<br/>KASAKII -",
+    "source":[
+      {
+        "type":"img",
+        "src":"/image/works/oppoo.moji/tit01.png",
+        "tit":null
+      },{
+        "type":"text",
+        "contenttext":[
+          "OMOJI 是 OPPO 为用户打造的个性数字化虚拟形象。OMOJI 致力成为安卓系统中体验最流畅、渲染最细腻、表情最灵动的数字化虚拟形象。",
+          "KASAKII受邀为OMOJI的第二次版本更新创作一支概念片，贴合 OMOJI 2.0 的产品概念「数字世界里的身份证」，传达 OMOJI 2.0 对身份塑造的准确性、多样性，灵动表情的趣味性，给用户以流畅、细腻、生动的产品感受，通过视频帮助用户快速了解 OMOJI 2.0 的版本更新亮点。"
+        ]
+      },{
+        "type":"video",
+        "src":"/image/works/oppoo.moji/tit02.mp4",
+        "tit":null
+      },{
+        "type":"text",
+        "contenttext":[
+          "数字世界里的虚拟形象同样拥有自己的人格，OMOJI 的内在人格通过其职业、装扮、动作表情展现，OMOJI 13 版本将不同性格、肤色的人格立体展现，帮助用户找到数字世界里属于自己的身份证明。"
+        ]
+      },
+      {
+        "type":"img",
+        "src":"/image/works/oppoo.moji/tit03.gif",
+        "tit":null
+      },{
+        "type":"img",
+        "src":"/image/works/oppoo.moji/tit04.gif",
+        "tit":null
+      },{
+        "type":"img",
+        "src":"/image/works/oppoo.moji/tit05.gif",
+        "tit":null
+      },{
+        "type":"img",
+        "src":"/image/works/oppoo.moji/tit06.gif",
+        "tit":null
+      },{
+        "type":"img",
+        "src":"/image/works/oppoo.moji/tit07.gif",
+        "tit":null
+      },{
+        "type":"img",
+        "src":"/image/works/oppoo.moji/tit08.gif",
+        "tit":null
+      },{
+        "type":"img",
+        "src":"/image/works/oppoo.moji/tit09.gif",
+        "tit":null
+      },{
+        "type":"img",
+        "src":"/image/works/oppoo.moji/tit10.gif",
+        "tit":null
+      },{
+        "type":"img",
+        "src":"/image/works/oppoo.moji/tit11.gif",
+        "tit":null
+      },{
+        "type":"img",
+        "src":"/image/works/oppoo.moji/tit12.gif",
+        "tit":null
+      },{
+        "type":"img",
+        "src":"/image/works/oppoo.moji/tit13.gif",
+        "tit":null
+      },{
+        "type":"img",
+        "src":"/image/works/oppoo.moji/tit14.gif",
+        "tit":null
+      },{
+        "type":"img",
+        "src":"/image/works/oppoo.moji/tit15.gif",
+        "tit":null
+      },{
+        "type":"text",
+        "contenttext":[
+          "制作一支灵动的视频过程也非常轻松，KASAKII很荣幸能与OMOJI结伴，在数字世界一起「刷脸」。",
+          "希望有了OMOJI，大家都能在互联网愉快冲浪，愉快地做自己，愉快生活！"
+        ]
+      }
+    ],
+    "bottomauthor":[
+      "KASAKII 卡卅",
+      "OPPO OMOJI TVC | OPPO OMOJI概念TVC<br/>Departure Time | Jul.01, 2022 ~ Aug.30, 2022",
+      "Creative- Artefact Lab<br/>Project Director - 刘滨｜BINL<br/>Account Manager - 尼尼鸭 | NINI<br/>Creative Planners - 兽兽｜Paoss / 鸡鸡｜Jared Lam<br/>Account - 小翔｜XX<br/>CGI Designer - 翟军｜JUN / 尚齐｜Sanki<br/>Editors - 米露淇｜Mickey / 兽兽｜Paoss / 鸡鸡｜Jared Lam"
+    ]
   },
   "ali.apsara":{
     "contentauthor":"",
