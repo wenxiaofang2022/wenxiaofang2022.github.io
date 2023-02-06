@@ -1748,253 +1748,181 @@
     "contentauthor":"MAY.13.2021 -<br/>TMALL<br/>HEY DESIGN LOGO DEDUCTIVE ANIMATION<br/>KASAKII -",
     "source":[
       {
+        "type":"img",
+        "src":"/image/works/heydesign/tit01.jpg",
+        "tit":"原研哉说：“设计师不只是一个很会设计的人，而是抱着设计概念来过生活、活下去的人。”诚然，在不同年代的不同艺术风格中，都能窥探杰出设计师们的生活美学。<br/>天猫小黑盒的Hey Design板块，正是这样一个希望和不同设计师一起探索设计与生活的新板块。"
+      },{
+        "type":"img",
+        "src":"/image/works/heydesign/tit02.jpg",
+        "tit":null
+      },
+      {
         "type":"text",
+        "tit":"01、时空之旅",
         "contenttext":[
-          "原研哉说：“设计师不只是一个很会设计的人，而是抱着设计概念来过生活、活下去的人。”诚然，在不同年代的不同艺术风格中，都能窥探杰出设计师们的生活美学。<br/>天猫小黑盒的Hey Design板块，正是这样一个希望和不同设计师一起探索设计与生活的新板块。",
           "Hey Design上线之际，邀请我们创作一支融合各种设计风格的微型TVC，在阿里巴巴设计周前预热发布。"
         ]
       },
       {
         "type":"video",
-        "src":"/image/works/heydesign/tit01.mp4",
-        "tit":null
+        "src":"/image/works/heydesign/tit03.mp4",
+        "tit":"基于Hey Design的多元化和包容性，我们决定邀请设计爱好者们一起坐上时光机，去回顾艺术设计史，致敬那些改变世界的设计。"
       },
       {
         "type":"img",
-        "src":"/image/works/heydesign/tit02.jpg",
-        "tit":null
-      },{
-        "type":"img",
-        "src":"/image/works/heydesign/tit03.jpg",
-        "tit":null
-      },{
-        "type":"img",
         "src":"/image/works/heydesign/tit04.jpg",
         "tit":null
-      },{
+      },
+      {
+        "type":"text",
+        "tit":"02、混沌之变",
+        "contenttext":[]
+      },
+      {
         "type":"img",
-        "src":"/image/works/heydesign/tit05.png",
-        "tit":null
-      },{
+        "src":"/image/works/heydesign/tit05.gif",
+        "tit":"19世纪末20世纪初，新旧时代交替，科技飞速发展，世界格局的巨变，让这个时期的艺术风格出现了过渡时期的特征，开始多元化地冲击各类人群的审美。"
+      },
+      {
         "type":"img",
         "src":"/image/works/heydesign/tit06.jpg",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"基于Hey Design的多元化和包容性，我们决定邀请设计爱好者们一起坐上时光机，去回顾艺术设计史，致敬那些改变世界的设计。"
+        "tit":"这张新古典主义的画面，我们采用了现代的手法和材质来还原古典气质，让画面同时具备了古典与现代的双重审美效果，用暖色调和细节处的金属营造出明亮的气质，让Hey Design保持艺术格调的同时，与用户拉近距离，成为一种生活审美。"
       },{
         "type":"img",
-        "src":"/image/works/heydesign/tit07.png",
-        "tit":null
-      },{
+        "src":"/image/works/heydesign/tit07.jpg",
+        "tit":"这张极具梵高特色的涂抹式创作，我们保留了旋转和夸张的变化，且增加了写实的植物边框用作对比，来延伸出画面的想象力。"
+      },
+     {
         "type":"img",
         "src":"/image/works/heydesign/tit08.jpg",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"这张新古典主义的画面，我们采用了现代的手法和材质来还原古典气质，让画面同时具备了古典与现代的双重审美效果，用暖色调和细节处的金属营造出明亮的气质，让Hey Design保持艺术格调的同时，与用户拉近距离，成为一种生活审美。"
-      },{
+        "tit":"Art Deco是一种艺术装饰风格，主要特点是规整的线条感和金属美感，我们用金银色的强烈对比，营造出个性化的氛围。"
+      },
+      {
         "type":"img",
-        "src":"/image/works/heydesign/tit09.gif",
+        "src":"/image/works/heydesign/tit09.jpg",
         "tit":null
-      },{
-        "type":"tips",
-        "tit":"19世纪末20世纪初，新旧时代交替，科技飞速发展，世界格局的巨变，让这个时期的艺术风格出现了过渡时期的特征，开始多元化地冲击各类人群的审美。"
-      },{
+      },
+      {
+        "type":"text",
+        "tit":"03、工业之争",
+        "contenttext":[]
+      },
+      {
         "type":"img",
-        "src":"/image/works/heydesign/tit10.jpg",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"这张新古典主义的画面，我们采用了现代的手法和材质来还原古典气质，让画面同时具备了古典与现代的双重审美效果，用暖色调和细节处的金属营造出明亮的气质，让Hey Design保持艺术格调的同时，与用户拉近距离，成为一种生活审美。"
-      },{
+        "src":"/image/works/heydesign/tit10.gif",
+        "tit":"伴随着第二次工业革命，我们来到了二战前夕。工业的发展延伸至设计领域，对艺术领域的影响为两种，一种是对工业加以创作的现实主义和流线型风格，另一种是抗拒工业侵袭艺术的抽象派和超现实主义。无论是哪种风格，都是当时的艺术家们对新时代不可磨灭的诠释。"
+      },
+      {
         "type":"img",
         "src":"/image/works/heydesign/tit11.jpg",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"这张极具梵高特色的涂抹式创作，我们保留了旋转和夸张的变化，且增加了写实的植物边框用作对比，来延伸出画面的想象力。"
-      },{
+        "tit":"包豪斯风格，实际上是对现代主义风格的另一种称呼。包豪斯为了追求新的、工业时代的表现形式，在设计中强调抽象的几何图形。因此，我们选用简洁清新的风格来呈现，在强调几何的同时，在色彩上增加现代审美。"
+      },
+      {
         "type":"img",
         "src":"/image/works/heydesign/tit12.jpg",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"Art Deco是一种艺术装饰风格，主要特点是规整的线条感和金属美感，我们用金银色的强烈对比，营造出个性化的氛围。"
-      },{
+        "tit":"紧接着现代主义出现的超现实主义，致力于用潜意识的形象思维去探索内心世界，探索梦境与现实之间的冲突，所以我们创作了一些不规则形状或形态的物体来表现这种冲突感。"
+      },
+      {
         "type":"img",
-        "src":"/image/works/heydesign/tit13.png",
-        "tit":null
-      },{
-        "type":"img",
-        "src":"/image/works/heydesign/tit13.gif",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"伴随着第二次工业革命，我们来到了二战前夕。工业的发展延伸至设计领域，对艺术领域的影响为两种，一种是对工业加以创作的现实主义和流线型风格，另一种是抗拒工业侵袭艺术的抽象派和超现实主义。无论是哪种风格，都是当时的艺术家们对新时代不可磨灭的诠释。"
-      },{
+        "src":"/image/works/heydesign/tit13.jpg",
+        "tit":"抽象派主张从直觉和想象力出发，脱离模仿自然的绘画风格。我们参考了康定斯基、马列维奇等艺术家的作品，用不均匀的色块来呈现这一风格画面。"
+      },
+      {
         "type":"img",
         "src":"/image/works/heydesign/tit14.jpg",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"包豪斯风格，实际上是对现代主义风格的另一种称呼。包豪斯为了追求新的、工业时代的表现形式，在设计中强调抽象的几何图形。因此，我们选用简洁清新的风格来呈现，在强调几何的同时，在色彩上增加现代审美。"
-      },{
+        "tit":"流线型设计主要出现在工业设计或科学研究中，而不是一个美学概念。我们提取了以流畅线条为特征的汽车外形来呈现，以致敬流线型应用比较广为人知的汽车领域。"
+      },
+      {
         "type":"img",
         "src":"/image/works/heydesign/tit15.jpg",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"包豪斯风格，实际上是对现代主义风格的另一种称呼。包豪斯为了追求新的、工业时代的表现形式，在设计中强调抽象的几何图形。因此，我们选用简洁清新的风格来呈现，在强调几何的同时，在色彩上增加现代审美。"
-      },{
+        "tit":"这幅显而易见的蒙德里安风格画，我们在平面的基础上做了立体设计，变化出更多的层次和光泽，用以代表Hey Design在设计上的创新精神。"
+      },
+      {
         "type":"img",
         "src":"/image/works/heydesign/tit16.jpg",
         "tit":null
       },{
-        "type":"tips",
-        "tit":"紧接着现代主义出现的超现实主义，致力于用潜意识的形象思维去探索内心世界，探索梦境与现实之间的冲突，所以我们创作了一些不规则形状或形态的物体来表现这种冲突感。"
+        "type":"text",
+        "tit":"04、自然之美",
+        "contenttext":[]
       },{
         "type":"img",
-        "src":"/image/works/heydesign/tit17.jpg",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"抽象派主张从直觉和想象力出发，脱离模仿自然的绘画风格。我们参考了康定斯基、马列维奇等艺术家的作品，用不均匀的色块来呈现这一风格画面。"
+        "src":"/image/works/heydesign/tit17.gif",
+        "tit":"二战后，全球进入休养生息，艺术家们开始思考人与自然、艺术与居住的关系。在此期间，出现了崇尚自然性的斯堪的纳维亚风格、探讨用空间创造可能性的艺术家考尔德，以及创造性地开发视错觉的艺术家埃舍尔。"
       },{
         "type":"img",
         "src":"/image/works/heydesign/tit18.jpg",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"流线型设计主要出现在工业设计或科学研究中，而不是一个美学概念。我们提取了以流畅线条为特征的汽车外形来呈现，以致敬流线型应用比较广为人知的汽车领域。"
+        "tit":"斯堪的维纳亚风格是一种家居风格，是包豪斯思潮的影响力在斯堪的纳维亚半岛的体现，主要追求的是实用性和自然性的统一，我们用暖色调，烘托出家居氛围的人情味。"
       },{
         "type":"img",
         "src":"/image/works/heydesign/tit19.jpg",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"这幅显而易见的蒙德里安风格画，我们在平面的基础上做了立体设计，变化出更多的层次和光泽，用以代表Hey Design在设计上的创新精神。"
-      },{
+        "tit":"这张风格参考来自亚历山大·考尔德，考尔德的作品展现了空间的动态，达到了动感与构成的完美结合点。我们加上阴影和光泽度增加真实感，放大这种强烈的空间感。"
+      },
+      {
         "type":"img",
-        "src":"/image/works/heydesign/tit20.png",
-        "tit":null
-      },{
+        "src":"/image/works/heydesign/tit20.jpg",
+        "tit":"这张落板的设计，致敬了埃舍尔的矛盾空间，他立体多重平面的结构造成的视错觉，带来峰回路转的惊喜感。"
+      },
+      {
         "type":"img",
-        "src":"/image/works/heydesign/tit21.gif",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"二战后，全球进入休养生息，艺术家们开始思考人与自然、艺术与居住的关系。在此期间，出现了崇尚自然性的斯堪的纳维亚风格、探讨用空间创造可能性的艺术家考尔德，以及创造性地开发视错觉的艺术家埃舍尔。"
-      },{
+        "src":"/image/works/heydesign/tit21.jpg",
+        "tit":"这张服饰主题参考了几种经典的服装布料，我们用不同布料组合出的飘逸感，来指代Hey Design在日后服装类产品的多种可能性。"
+      },
+      {
         "type":"img",
         "src":"/image/works/heydesign/tit22.jpg",
         "tit":null
       },{
-        "type":"tips",
-        "tit":"二战后，全球进入休养生息，艺术家们开始思考人与自然、艺术与居住的关系。在此期间，出现了崇尚自然性的斯堪的纳维亚风格、探讨用空间创造可能性的艺术家考尔德，以及创造性地开发视错觉的艺术家埃舍尔。"
+        "type":"text",
+        "tit":"05、自由之年",
+        "contenttext":[]
       },{
         "type":"img",
-        "src":"/image/works/heydesign/tit23.jpg",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"斯堪的维纳亚风格是一种家居风格，是包豪斯思潮的影响力在斯堪的纳维亚半岛的体现，主要追求的是实用性和自然性的统一，我们用暖色调，烘托出家居氛围的人情味。"
+        "src":"/image/works/heydesign/tit23.gif",
+        "tit":"20世纪的中后期，艺术发展到了一个相对活跃的时期，通俗的波普艺术、克制的极简主义、反叛的结构主义和鲜活的孟菲斯派，无一不说明这是一个自由的时代。艺术已经不再属于少部分人，而是回到普罗大众之中，去接近生活，甚至改变生活。"
       },{
         "type":"img",
         "src":"/image/works/heydesign/tit24.jpg",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"这张风格参考来自亚历山大·考尔德，考尔德的作品展现了空间的动态，达到了动感与构成的完美结合点。我们加上阴影和光泽度增加真实感，放大这种强烈的空间感。"
-      },{
+        "tit":"20世纪中期，波普艺术出现。“波普”来自“Pop”音译，即流行的、大众的，探讨的是通俗文化与艺术之间的关系。我们提取波普艺术的随意感、破坏感，来致敬这种反叛的艺术。"
+      },
+      {
         "type":"img",
         "src":"/image/works/heydesign/tit25.jpg",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"这张落板的设计，致敬了埃舍尔的矛盾空间，他立体多重平面的结构造成的视错觉，带来峰回路转的惊喜感。"
-      },{
+        "tit":"极简主义最初兴起于家居领域，表现方式是把最原初的物体形态展示出来，摒弃作品中蕴含过多的作者意识。我们用最简单的材质和最基础的物体来致敬这个思想：所见即所想。"
+      },
+      {
         "type":"img",
         "src":"/image/works/heydesign/tit26.jpg",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"服饰主题参考了几种经典的服装布料，我们用不同布料组合出的飘逸感，来指代Hey Design在日后服装类产品的多种可能性。"
-      },{
+        "tit":"解构主义起源于20世纪60年代，特征是从逻辑上否定传统的基本设计原则，用分解的观念打碎既定认知。为呈现这种破碎感和不确定感，我们选用了把看似规整的结构支离破碎地重新组合。"
+      },
+      {
         "type":"img",
-        "src":"/image/works/heydesign/tit27.png",
-        "tit":null
-      },{
+        "src":"/image/works/heydesign/tit27.jpg",
+        "tit":"与传统设计强调有序不同，孟菲斯派的设计背景多用凌乱的组合方式，配合高明度的色彩组合。我们加上立体感之后，画面的鲜活感仿佛刚从树上摘下来一样，让人胃口大开。"
+      },
+      {
         "type":"img",
-        "src":"/image/works/heydesign/tit28.gif",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"20世纪的中后期，艺术发展到了一个相对活跃的时期，通俗的波普艺术、克制的极简主义、反叛的结构主义和鲜活的孟菲斯派，无一不说明这是一个自由的时代。艺术已经不再属于少部分人，而是回到普罗大众之中，去接近生活，甚至改变生活。"
-      },{
+        "src":"/image/works/heydesign/tit28.jpg",
+        "tit":"兴起于20世纪70年代的高科技风格，来源于高速发展的现代科学。高科技风格把技术因素提炼出来，并把机器内部结构暴露出来，加以夸张处理，表现高科技时代的机械美。我们加上了阿里巴巴的品牌色橙色作为点缀，更加贴近了阿里巴巴本身的科技属性。"
+      },
+      {
         "type":"img",
         "src":"/image/works/heydesign/tit29.jpg",
         "tit":null
       },{
-        "type":"tips",
-        "tit":"20世纪的中后期，艺术发展到了一个相对活跃的时期，通俗的波普艺术、克制的极简主义、反叛的结构主义和鲜活的孟菲斯派，无一不说明这是一个自由的时代。艺术已经不再属于少部分人，而是回到普罗大众之中，去接近生活，甚至改变生活。"
+        "type":"text",
+        "tit":"06、HEY DESIGN",
+        "contenttext":[
+          "在回顾了众多改变生活甚至改变世界的艺术设计之后，我们从Hey Design的时空隧道中出来，再次回到现实世界中。"
+        ]
       },{
         "type":"img",
-        "src":"/image/works/heydesign/tit30.jpg",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"20世纪中期，波普艺术出现。“波普”来自“Pop”音译，即流行的、大众的，探讨的是通俗文化与艺术之间的关系。我们提取波普艺术的随意感、破坏感，来致敬这种反叛的艺术。"
+        "src":"/image/works/heydesign/tit30.gif",
+        "tit":"其实我们每个人都是设计自己生活的艺术家，不管风格如何变化，设计依然散发着独有的美，设计的力量也会不断地丰富着我们的视野和世界。"
       },{
         "type":"img",
         "src":"/image/works/heydesign/tit31.jpg",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"极简主义最初兴起于家居领域，表现方式是把最原初的物体形态展示出来，摒弃作品中蕴含过多的作者意识。我们用最简单的材质和最基础的物体来致敬这个思想：所见即所想。"
-      },{
-        "type":"img",
-        "src":"/image/works/heydesign/tit32.jpg",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"解构主义起源于20世纪60年代，特征是从逻辑上否定传统的基本设计原则，用分解的观念打碎既定认知。为呈现这种破碎感和不确定感，我们选用了把看似规整的结构支离破碎地重新组合。"
-      },{
-        "type":"img",
-        "src":"/image/works/heydesign/tit33.jpg",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"与传统设计强调有序不同，孟菲斯派的设计背景多用凌乱的组合方式，配合高明度的色彩组合。我们加上立体感之后，画面的鲜活感仿佛刚从树上摘下来一样，让人胃口大开。"
-      },{
-        "type":"img",
-        "src":"/image/works/heydesign/tit34.jpg",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"兴起于20世纪70年代的高科技风格，来源于高速发展的现代科学。高科技风格把技术因素提炼出来，并把机器内部结构暴露出来，加以夸张处理，表现高科技时代的机械美。我们加上了阿里巴巴的品牌色橙色作为点缀，更加贴近了阿里巴巴本身的科技属性。"
-      },{
-        "type":"img",
-        "src":"/image/works/heydesign/tit35.png",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"在回顾了众多改变生活甚至改变世界的艺术设计之后，我们从Hey Design的时空隧道中出来，再次回到现实世界中。"
-      },{
-        "type":"img",
-        "src":"/image/works/heydesign/tit36.gif",
-        "tit":null
-      },{
-        "type":"img",
-        "src":"/image/works/heydesign/tit37.jpg",
-        "tit":null
-      },{
-        "type":"tips",
-        "tit":"其实我们每个人都是设计自己生活的艺术家，不管风格如何变化，设计依然散发着独有的美，设计的力量也会不断地丰富着我们的视野和世界。<br/>以上就是Hey Design的项目分享，希望大家在这个新板块中能找到自己钟爱的设计之美和生活之美。"
-      },{
-        "type":"img",
-        "src":"/image/works/heydesign/tit38.png",
-        "tit":null
+        "tit":"以上就是Hey Design的项目分享，希望大家在这个新板块中能找到自己钟爱的设计之美和生活之美。"
       }
     ],
     "bottomauthor":[
