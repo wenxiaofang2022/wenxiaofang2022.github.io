@@ -10,9 +10,23 @@
         ]
       },
       {
+        "type":"blank"
+      },
+      {
         "type":"img",
         "src":"/image/works/lego/01.png",
-        "tit":"那么，如何搭建一个乐高世界？"
+        "tit":null
+      },
+      {
+        "type":"blank"
+      },
+      {
+        "type":"text",
+        "tit":"01 DESIGN 如何搭建一个乐高世界？",
+        "contenttext":[]
+      },
+      {
+        "type":"blank"
       },
       {
         "type":"img",
@@ -22,7 +36,24 @@
       {
         "type":"img",
         "src":"/image/works/lego/03.png",
-        "tit":"如何进入乐高世界？<br/>先选择当个酷盖还是人间小可爱吧！<br/>比如我们可以先参考这位看起来像乐队主唱的先生，为了彰显狠人气场，首先选择了一个粉色套餐，然后不忘通过风流倜傥的上衣追回少许的文雅气质。"
+        "tit":null
+      },
+      {
+        "type":"blank"
+      },
+      {
+        "type":"text",
+        "tit":"02 DRESSING UP 如何进入乐高世界？",
+        "contenttext":[]
+      },
+      {
+        "type":"blank"
+      },
+      {
+        "type":"text",
+        "contenttext":[
+          "先选择当个酷盖还是人间小可爱吧！<br/>比如我们可以先参考这位看起来像乐队主唱的先生，为了彰显狠人气场，首先选择了一个粉色套餐，然后不忘通过风流倜傥的上衣追回少许的文雅气质。"
+        ]
       },
       {
         "type":"img",
@@ -37,17 +68,52 @@
       {
         "type":"img",
         "src":"/image/works/lego/06.png",
-        "tit":"正式上手之后，从头开始，乐高世界的托尼老师不会让你办卡哈。"
+        "tit":null
+      },
+      {
+        "type":"blank"
+      },
+      {
+        "type":"text",
+        "contenttext":[
+          "正式上手之后，从头开始，乐高世界的托尼老师不会让你办卡哈。"
+        ]
       },
       {
         "type":"img",
         "src":"/image/works/lego/07.png",
-        "tit":"你开不开心啊？不开心的话6块腹肌借你摸一下咯～带蓝buff的哈！ "
+        "tit":null
+      },
+      {
+        "type":"blank"
+      },
+      {
+        "type":"text",
+        "contenttext":[
+          "你开不开心啊？不开心的话6块腹肌借你摸一下咯～带蓝buff的哈！"
+        ]
       },
       {
         "type":"img",
         "src":"/image/works/lego/08.gif",
-        "tit":"如何选择适合自己的拍照场景？<br/>把山川湖海与爱都尝试一遍，游个两万里去康康海底有些什么。"
+        "tit":null
+      },
+      {
+        "type":"blank"
+      },
+      {
+        "type":"text",
+        "tit":"03 CHOOSE YOUR SCENES 如何选择适合自己的拍照场景？",
+        "contenttext":[]
+      },
+      {
+        "type":"blank"
+      },
+      {
+        "type":"text",
+        "contenttext":[
+          "把山川湖海与爱都尝试一遍，游个两万里去康康海底有些什么。"
+        ]
       },
       {
         "type":"img",
@@ -72,7 +138,16 @@
       {
         "type":"img",
         "src":"/image/works/lego/13.png",
-        "tit":"这条gai，像我这么可爱的还有233个！"
+        "tit":null
+      },
+      {
+        "type":"blank"
+      },
+      {
+        "type":"text",
+        "contenttext":[
+          "这条gai，像我这么可爱的还有233个！"
+        ]
       },
       {
         "type":"img",
@@ -82,7 +157,16 @@
       {
         "type":"img",
         "src":"/image/works/lego/15.gif",
-        "tit":"把自己的独照大作po到朋友圈，就可以出租合照位啦～好朋友就是要一起奇奇怪怪！"
+        "tit":null
+      },
+      {
+        "type":"blank"
+      },
+      {
+        "type":"text",
+        "contenttext":[
+          "把自己的独照大作po到朋友圈，就可以出租合照位啦～好朋友就是要一起奇奇怪怪！"
+        ]
       },
       {
         "type":"img",
@@ -97,17 +181,44 @@
       {
         "type":"img",
         "src":"/image/works/lego/18.png",
-        "tit":"同时乐高的小程序内也充满了LEGO LOVE的合照，价值千金的脸不是白白出镜的，只要在乐高的小程序内上传自己的乐高合照，点赞数冲进前5名的盆友们，就有机会领走你设计的乐高小人仔，摆在家里提升可爱度，亲测有效。"
+        "tit":null
+      },
+      {
+        "type":"blank"
+      },
+      {
+        "type":"text",
+        "contenttext":[
+          "同时乐高的小程序内也充满了LEGO LOVE的合照，价值千金的脸不是白白出镜的，只要在乐高的小程序内上传自己的乐高合照，点赞数冲进前5名的盆友们，就有机会领走你设计的乐高小人仔，摆在家里提升可爱度，亲测有效。"
+        ]
       },
       {
         "type":"img",
         "src":"/image/works/lego/19.png",
-        "tit":"让人想要重启的2020年，把原本触手可及的恋人和朋友隔绝，距离让想念日生夜长。我们在这4个月的时间里，体会到了生活中的更多细枝末节，也更懂得爱与珍惜。"
+        "tit":null
+      },
+      {
+        "type":"blank"
+      },
+      {
+        "type":"text",
+        "contenttext":[
+          "让人想要重启的2020年，把原本触手可及的恋人和朋友隔绝，距离让想念日生夜长。我们在这4个月的时间里，体会到了生活中的更多细枝末节，也更懂得爱与珍惜。"
+        ]
       },
       {
         "type":"img",
         "src":"/image/works/lego/20.png",
-        "tit":"如果你想起了某个很久没见面的人，那就邀请TA来乐高世界里，一起奇奇怪怪地可可爱爱吧！"
+        "tit":null
+      },
+      {
+        "type":"blank"
+      },
+      {
+        "type":"text",
+        "contenttext":[
+          "如果你想起了某个很久没见面的人，那就邀请TA来乐高世界里，一起奇奇怪怪地可可爱爱吧！"
+        ]
       },
       {
         "type":"img",
@@ -132,7 +243,7 @@
       {
         "type":"text",
         "contenttext":[
-          "谁说只有小孩子才有做梦的权利？“滴——”加班打卡后，一场重回童年的奇幻梦境限时开启！在六一儿童节当天，在多媒体装置中回到童年，在现实世界里做一个很冒险梦。唤醒你的冒险初心，重拾对生活的探索的渴望与热情",
+          "谁说只有小孩子才有做梦的权利？“滴——”加班打卡后，一场重回童年的奇幻梦境限时开启！在六一儿童节当天，在多媒体装置中回到童年，在现实世界里做一个很冒险的梦。唤醒你的冒险初心，重拾对生活的探索的渴望与热情",
           "城市缝隙迷行是一场沉浸式的线下活动，KASAKII联合腾讯怪奇鹅和TUNO在上海的老街规划了一条行走的路线，在这街道提取出可以创作的元素，结合KASAKII的卡通形象和怪奇鹅创作出一个城市游走并与异世界互相穿梭的故事本。以投影、声音、标记、道具四种媒介进行呈现。"
         ]
       },
@@ -157,14 +268,23 @@
         "tit":"电话亭在很异常地狂响，同时注意到电箱爆炸..."
       },
       {
+        "type":"blank"
+      },
+      {
         "type":"img",
         "src":"/image/works/city/2.gif",
         "tit":"在红墙上发现奇怪的符号，同时听到奇怪的声音"
       },
       {
+        "type":"blank"
+      },
+      {
         "type":"img",
         "src":"/image/works/city/3.gif",
-        "tit":"Et在窃窃私语，别发现后四处走散"
+        "tit":"ET在窃窃私语，被发现后四处走散"
+      },
+      {
+        "type":"blank"
       },
       {
         "type":"img",
@@ -172,9 +292,15 @@
         "tit":"终于，它们露出了真身...我们赶紧跟着它"
       },
       {
+        "type":"blank"
+      },
+      {
         "type":"img",
         "src":"/image/works/city/5.gif",
         "tit":"捉住了一只野生ET！"
+      },
+      {
+        "type":"blank"
       },
       {
         "type":"img",
@@ -192,6 +318,9 @@
         "tit":"我们跟着它们一直走一直走，终于我们似乎来到了它们狂欢的基地..."
       },
       {
+        "type":"blank"
+      },
+      {
         "type":"img",
         "src":"/image/works/city/tit02.jpg",
         "tit":null
@@ -207,6 +336,9 @@
         "type":"img",
         "src":"/image/works/city/9.jpg",
         "tit":"于是KASAKII联手怪奇鹅和TUNO，创作了名为“城市缝隙”的冒险空间，把LOGO形象延展创作成行走在城市缝隙中的神秘生物。"
+      },
+      {
+        "type":"blank"
       },
       {
         "type":"img",
@@ -322,6 +454,15 @@
         "type":"img",
         "src":"/image/works/city/32.jpg",
         "tit":null
+      },
+      {
+        "type":"blank"
+      },
+      {
+        "type":"text",
+        "contenttext":[
+          "在众多乐趣被阻隔的2020年，我们无处安放的童心催生了这个冒险梦境。希望你也和我们一样，不停好奇，不停探索，把这个世界当成游乐场吧！"
+        ]
       },
       {
         "type":"img",
@@ -659,9 +800,13 @@
         "src":"/image/works/tmall/6.png",
         "tit":"在这个全民5G冲浪的时代，如何在线上吸引更多宅在家里的人们，走上街头与理想接头呢？"
       },{
+        "type":"blank"
+      },{
         "type":"img",
         "src":"/image/works/tmall/7.png",
         "tit":"首先勾勒出街景的线稿，用俯视东方明珠来强调泰迪珍藏主题店的地理位置，用漂浮的健身器材来表现锐步健身房的活力感，用冰冻来表现博世主题店的“冷科技”，从外部环境烘托出每家主题店的特色。"
+      },{
+        "type":"blank"
       },{
         "type":"img",
         "src":"/image/works/tmall/8.png",
@@ -709,12 +854,32 @@
       },{
         "type":"img",
         "src":"/image/works/tmall/19.png",
-        "tit":"作为天猫主题店的代言人，喵总亲自出镜，欧总以一猫之力同时担任导演、摄影、后期，双猫梦幻联动，耗时短短10天，制作了这支探店vlog。"
-      },{
+        "tit":null
+      },
+      {
+        "type":"blank"
+      },
+      {
+        "type":"text",
+        "contenttext":[
+          "作为天猫主题店的代言人，喵总亲自出镜，欧总以一猫之力同时担任导演、摄影、后期，双猫梦幻联动，耗时短短10天，制作了这支探店vlog。"
+        ]
+      },
+      {
         "type":"img",
         "src":"/image/works/tmall/20.gif",
-        "tit":"两脚兽们也没有辜负两位猫老板的努力。海报和视频发布之后，已经有成千上万位理想客走上街头，与理想接上了头。"
-      },{
+        "tit":null
+      },
+      {
+        "type":"blank"
+      },
+      {
+        "type":"text",
+        "contenttext":[
+          "两脚兽们也没有辜负两位猫老板的努力。海报和视频发布之后，已经有成千上万位理想客走上街头，与理想接上了头。"
+        ]
+      },
+      {
         "type":"img",
         "src":"/image/works/tmall/21.gif",
         "tit":null
@@ -725,8 +890,18 @@
       },{
         "type":"img",
         "src":"/image/works/tmall/23.png",
-        "tit":"现在，2020天猫主题店计划已经正式发布。在有条不紊的都市节奏缝隙里，如果依然存在着你理想的生活，那就马上出发，跟你的理想接上头吧！"
-      },{
+        "tit":null
+      },
+      {
+        "type":"blank"
+      },
+      {
+        "type":"text",
+        "contenttext":[
+          "现在，2020天猫主题店计划已经正式发布。在有条不紊的都市节奏缝隙里，如果依然存在着你理想的生活，那就马上出发，跟你的理想接上头吧！"
+        ]
+      },
+      {
         "type":"img",
         "src":"/image/works/tmall/24.png",
         "tit":null
@@ -788,6 +963,9 @@
         "tit":null
       },
       {
+        "type":"blank"
+      },
+      {
         "type":"tittxt",
         "tit":"「流淌的不仅仅是长江，还有时间与叙事」",
         "txt":"我们同长江·和集的选书师一起筛选出<br/>281本人类阅读史上具有重要意义的书籍<br/>让安静存放在书架上的文字流动起来，组成光河<br/>增强书店空间感的同时<br/>也同书店外的长江，形成时空互文"
@@ -796,7 +974,11 @@
         "type":"img",
         "src":"/image/works/changjiang/5.png",
         "tit":null
-      },{
+      },
+      {
+        "type":"blank"
+      },
+      {
         "type":"tittxt",
         "tit":"「莫比乌斯环」",
         "txt":"英国数学家John Walli在一篇论文中首先运用了莫比乌斯环的符号<br/>时空的流动自此有了一种新的真相——<br/>任意两点都可连接：结果孕育在原因之中，目的事先存在于手段之中<br/>我们的阅读也是如此：一页页翻阅，生活看似重复而无聊，其实都在铺垫下一次进步<br/>因此我们决定选用莫比乌斯环作为装置的外观，让无形的阅读拥有可视化的载体"
@@ -809,7 +991,11 @@
         "type":"img",
         "src":"/image/works/changjiang/7.png",
         "tit":"在长江·和集内，装置主体用高空悬挂形式，贯穿一二楼"
-      },{
+      },
+      {
+        "type":"blank"
+      },
+      {
         "type":"img",
         "src":"/image/works/changjiang/8.png",
         "tit":null
@@ -842,6 +1028,9 @@
         "src":"/image/works/changjiang/15.gif",
         "tit":null
       },{
+        "type":"blank"
+      },
+      {
         "type":"tittxt",
         "tit":"「给文字一个流淌的FLOW」",
         "txt":"我们特别编写了一个诗歌系统，打破原有的叙事逻辑<br/>读者在书店内的活动可触发装置内置系统<br/>从筛选出的281个书名中随机摘取字句<br/>实时变更莫比乌斯环外屏上呈现的诗歌内容以及「诗歌之河」的流速<br/>蓝色与白色的光效，在装置外屏交替出现<br/>逐渐接近读者心中的阅读之海"
@@ -863,6 +1052,9 @@
         "src":"/image/works/changjiang/19.gif",
         "tit":null
       },{
+        "type":"blank"
+      },
+      {
         "type":"tittxt",
         "tit":"1.「个人专属的AI诗浪」",
         "txt":"感应器捕捉读者走到莫比乌斯环前方<br/>通过数据模型用书名文字实时生成新的诗歌<br/>变化的流动诗歌在屏幕上如流水滚动<br/>以诗歌迎接读者"
@@ -876,6 +1068,9 @@
         "src":"/image/works/changjiang/21.gif",
         "tit":null
       },{
+        "type":"blank"
+      },
+      {
         "type":"tittxt",
         "tit":"2.「空间中的群体行为」",
         "txt":"感应器捕捉空间内的人流量<br/>实时控制莫比乌斯显示屏上的文字流动速度<br/>用书名构成流动的水流状态，模拟人流动的速度"
@@ -897,6 +1092,9 @@
         "src":"/image/works/changjiang/25.gif",
         "tit":null
       },{
+        "type":"blank"
+      },
+      {
         "type":"tittxt",
         "tit":"「就像一颗石头掷入水中」",
         "txt":"我们通过交互与AI智能的技术<br/>让纯理性的机器语言与感性爆发的诗歌表达交融<br/>极冷与极热的融合，让空间获得交流的属性<br/>阅读的每一步，都在强化自己与世界的联系"
@@ -1602,7 +1800,7 @@
         "tit":null
       },{
         "type":"tips",
-        "tit":"那些胶片展开，就是一场定格的电影。<br/>已完成的旅行订单，中途经传的站点，不再是过眼云烟的瞬间。点开飞猪的那一刻，情景回放，往日重现……"
+        "tit":"那些胶片展开，就是一场定格的电影。<br/>已完成的旅行订单，中途经传的站点，不再是过眼云烟的瞬间。<br/>点开飞猪的那一刻，情景回放，往日重现……"
       },
       {
         "type":"img",
@@ -1682,14 +1880,14 @@
         "tit":null
       },{
         "type":"tips",
-        "tit":"一页页旅行记录向下滑动，仿佛胶卷成像的过程。2020的时光，不仅被我们记录在胶卷上，也记在了心里。<br/>结尾页一张被冲洗出来的新照片，意味着我们告别了这特殊的一年，在2021新篇章中开始创造新的回忆。"
+        "tit":"一页页旅行记录向下滑动，仿佛胶卷成像的过程。<br/>2020的时光，不仅被我们记录在胶卷上，也记在了心里。<br/>结尾页一张被冲洗出来的新照片，意味着我们告别了这特殊的一年，在2021新篇章中开始创造新的回忆。"
       },{
         "type":"img",
         "src":"/image/works/fliggy/tit19.png",
         "tit":null
       },{
         "type":"tips",
-        "tit":"2021的开年，你有什么新的旅行计划？<br/>我们在结尾处设置了一些旅行画面，你可以选择自己所期盼的那一种。比如和家人一起，征服一座久仰的山。"
+        "tit":"2021的开年，你有什么新的旅行计划？<br/>我们在结尾处设置了一些旅行画面，你可以选择自己所期盼的那一种。<br/>比如和家人一起，征服一座久仰的山。"
       },{
         "type":"img",
         "src":"/image/works/fliggy/tit20.png",
@@ -1937,7 +2135,21 @@
       {
         "type":"text",
         "contenttext":[
-          "继之前的天猫主题店开业以来，两脚兽们源源不断地走上街头跟理想接头。所以喵总决定继续开主题店，于是我们就有新的需求啦！这一期天猫与主题店合作推出了联名产品——【城市首发限定款】，我们既要在KV上呈现这些特别的限定款，又需要表现主题店，所以我们以“餐桌系列静物拍摄”风，突出 | 可享用的体验 | 无论是主题店本身，还是城市限定款礼盒，皆为盘中之物，还请享用愉快！"
+          "继之前的天猫主题店开业以来，两脚兽们源源不断地走上街头跟理想接头。所以喵总决定继续开主题店，于是我们就有新的需求啦！这一期天猫与主题店合作推出了联名产品——【城市首发限定款】。"
+        ]
+      },
+      {
+        "type":"text",
+        "tit":"01 CONCEPT 请尽情享用理想生活",
+        "contenttext":null
+      },
+      {
+        "type":"blank"
+      },
+      {
+        "type":"text",
+        "contenttext":[
+          "我们既要在KV上呈现这些特别的限定款，又需要表现主题店，所以我们以“餐桌系列静物拍摄”风，突出 | 可享用的体验 | 无论是主题店本身，还是城市限定款礼盒，皆为盘中之物，还请享用愉快！"
         ]
       },
       {
@@ -1949,6 +2161,15 @@
         "type":"img",
         "src":"/image/works/tmall2/tit02.png",
         "tit":null
+      }, {
+        "type":"blank"
+      },{
+        "type":"text",
+        "tit":"02 DESIGN 一份关于理想的礼物",
+        "contenttext":null
+      },
+      {
+        "type":"blank"
       },{
         "type":"tips",
         "tit":"喵总要求，这期要跟上期以城市视角为主的画风拉开差距。所以我们选择了时尚大片的静物拍摄的手法，把礼物本物作为海报主角，搭配着等比缩小的主题店建筑原貌的桌面摆件，把各种元素浓缩在一张桌子上。"
@@ -2018,6 +2239,14 @@
         "type":"img",
         "src":"/image/works/tmall2/tit14.png",
         "tit":null
+      },{
+        "type":"blank"
+      },{
+        "type":"text",
+        "tit":"03 VIDEO 上街头与理想接头",
+        "contenttext":null
+      },{
+        "type":"blank"
       },{
         "type":"tips",
         "tit":"海报出炉之后，所里的打工人纷纷表示想到主题店里实店探索。喵总一拍尾巴，那就索性拍一条探店视频吧！于是所里TOP女明星亲手出镜，运用第一人称视角，营造在现场体验的代入感，带大家一起探索了四家⻛格各异的天猫主题店。快来康康！"
@@ -2633,7 +2862,7 @@
       "tit":null
     },{
       "type":"tips",
-      "tit":"艺术研究员决定以此为课题撰写艺术研究报告，好好一探究竟"
+      "tit":"艺术研究员决定以此为课题撰写艺术研究报告，好好一探究竟<br/><br/><br/>"
     },{
       "type":"img",
       "src":"/image/works/utalent/tit03.png",
@@ -2838,7 +3067,11 @@
         "type":"img",
         "src":"/image/works/taobaotop/tit01.jpg",
         "tit":null
-      },{
+      },
+      {
+        "type":"blank"
+      },
+      {
         "type":"text",
         "contenttext":[
           "接到淘宝关于年度十大商品的海报创作邀请，我们拿到了十大商品清单，它们和这一年的大事件紧密相关。",
@@ -2885,6 +3118,8 @@
         "src":"/image/works/taobaotop/tit11.jpg",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "这十大商品既体现了衣食住行的烟火气，也体现了这一年被航天、奥运、电竞点燃的集体情绪。作为淘宝新一代的主力用户，年轻人们不再迷信国际大牌，更愿意为切身感受买单，为自己的文化付费。",
@@ -2906,6 +3141,8 @@
         "src":"/image/works/oppoo.moji/tit01.png",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "OMOJI 是 OPPO 为用户打造的个性数字化虚拟形象。OMOJI 致力成为安卓系统中体验最流畅、渲染最细腻、表情最灵动的数字化虚拟形象。",
@@ -2915,6 +3152,8 @@
         "type":"video",
         "src":"/image/works/oppoo.moji/tit02.mp4",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -2974,6 +3213,8 @@
         "src":"/image/works/oppoo.moji/tit15.gif",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "制作一支灵动的视频过程也非常轻松，KASAKII很荣幸能与OMOJI结伴，在数字世界一起「刷脸」。",
@@ -2994,6 +3235,8 @@
       "src":"/image/works/ali.apsara/tit01.png",
       "tit":null
     },{
+      "type":"blank"
+    },{
       "type":"text",
       "contenttext":[
         "「云栖大会」是由阿里巴巴集团每年都会举办的全球顶级科技大会，汇聚时代最强大脑，描绘新技术发展趋势和蓝图，展现云计算、大数据、人工智能等科技生态全景。"
@@ -3002,6 +3245,8 @@
       "type":"video",
       "src":"/image/works/ali.apsara/tit02.mp4",
       "tit":null
+    },{
+      "type":"blank"
     },{
       "type":"text",
       "contenttext":[
@@ -3013,15 +3258,19 @@
       "src":"/image/works/ali.apsara/tit03.gif",
       "tit":null
     },{
+      "type":"blank"
+    },{
       "type":"text",
-      "tit":"PART 1：故事背景",
+      "tit":"01 CONCEPT 云栖探谷队",
       "contenttext":[
-        "我们用「云栖探谷队」来形容到访云栖数字谷的参与者们。他们由三大星系的科技精英组成，带着共同目标「探访地球科技」而来的同时，还代表着各自的星系。"
+        "<br/>我们用「云栖探谷队」来形容到访云栖数字谷的参与者们。他们由三大星系的科技精英组成，带着共同目标「探访地球科技」而来的同时，还代表着各自的星系。"
       ]
     },{
       "type":"img",
       "src":"/image/works/ali.apsara/tit04.gif",
       "tit":null
+    },{
+      "type":"blank"
     },{
       "type":"text",
       "contenttext":[
@@ -3044,6 +3293,8 @@
       "src":"/image/works/ali.apsara/tit08.gif",
       "tit":null
     },{
+      "type":"blank"
+    },{
       "type":"text",
       "contenttext":[
         "为了让探索者们的体验可以轻线上、重线下，我们分别进行了线上 H5 和线下装置的搭建。",
@@ -3051,14 +3302,16 @@
       ]
     },{
       "type":"text",
-      "tit":"PART 2：线上H5",
+      "tit":"02 H5 加入探谷队吧",
       "contenttext":[
-        "在云栖数字谷领取徽章后，就视为加入了云栖探谷队，队员们需要把徽章绑定到手机上。"
+        "<br/>在云栖数字谷领取徽章后，就视为加入了云栖探谷队，队员们需要把徽章绑定到手机上。"
       ]
     },{
       "type":"img",
       "src":"/image/works/ali.apsara/tit09.png",
       "tit":null
+    },{
+      "type":"blank"
     },{
       "type":"text",
       "contenttext":[
@@ -3070,9 +3323,9 @@
       "tit":null
     },{
       "type":"text",
-      "tit":"PART 3：线下装置",
+      "tit":"03 INTERACTIVE 传送你的科技灵感",
       "contenttext":[
-        "探谷队员到各个科技展位，尽情享受云栖科技之余，把徽章放在专属的灵感传送机上“嘀”一下，就可以把地球新款科技向母星传送，转化成科技灵感。"
+        "<br/>探谷队员到各个科技展位，尽情享受云栖科技之余，把徽章放在专属的灵感传送机上“嘀”一下，就可以把地球新款科技向母星传送，转化成科技灵感。"
       ]
     },{
       "type":"img",
@@ -3087,6 +3340,8 @@
       "src":"/image/works/ali.apsara/tit13.png",
       "tit":null
     },{
+      "type":"blank"
+    },{
       "type":"text",
       "contenttext":[
         "科技这两个字，包含了人类对未来的诸多想象。它是艺术家的前沿，是生活家的探索，更是科学家的想象力。我们之所以热爱科技，是因为对未来满怀期待。"
@@ -3097,7 +3352,7 @@
       "tit":null
     },{
       "type":"text",
-      "tit":"PART 4：云栖现场",
+      "tit":"04 RESULTS 云栖现场",
       "contenttext":[]
     },{
       "type":"img",
@@ -3136,6 +3391,8 @@
       "src":"/image/works/ali.apsara/tit23.jpg",
       "tit":null
     },{
+      "type":"blank"
+    },{
       "type":"text",
       "contenttext":[
         "为期 4 天的云栖大会期间，「云栖探谷队」探谷体验在线上获得了 4600 人次、27000+ 的访问次数，线下的 19 个打卡点共获得了 28000+ 次打卡次数，并为夜间活动引流了 1300+ 人。"
@@ -3144,6 +3401,8 @@
       "type":"img",
       "src":"/image/works/ali.apsara/tit24.png",
       "tit":null
+    },{
+      "type":"blank"
     },{
       "type":"text",
       "contenttext":[
@@ -3163,7 +3422,11 @@
       "type":"img",
       "src":"/image/works/mixplace/tit01.jpg",
       "tit":null
-    },{
+    },
+    {
+      "type":"blank"
+    },
+    {
       "type":"text",
       "contenttext":[
         "当「新东方古典美学」邂逅「前沿数字化交互」，庭院桂香，枝桠微风，松山新雪都能在此刻轻落于你的指尖，调动所有感官，欢迎来到KASAKII为你打造的「闻学疗愈馆」……"
@@ -3172,20 +3435,28 @@
       "type":"text",
       "tit":"01 入场疗愈馆 ADMISSION",
       "contenttext":[
-        "追着玉兔穿过东方庭院的悠悠拱门隧道，沐浴阵阵桂花雨下。",
+        "<br/>追着玉兔穿过东方庭院的悠悠拱门隧道，沐浴阵阵桂花雨下。",
         "在古典韵律的弹拨中进入一场沉浸式疗愈。"
       ]
     },{
       "type":"video",
       "src":"/image/works/mixplace/tit02.mp4",
       "tit":null
-    },{
+    },
+    {
+      "type":"blank"
+    },
+    {
       "type":"text",
       "tit":"02 闻香中 EXPERIENCE"
+    },{
+      "type":"blank"
     },{
       "type":"img",
       "src":"/image/works/mixplace/tit03.gif",
       "tit":null
+    },{
+      "type":"blank"
     },{
       "type":"text",
       "contenttext":[
@@ -3196,6 +3467,8 @@
       "src":"/image/works/mixplace/tit04.gif",
       "tit":null
     },{
+      "type":"blank"
+    },{
       "type":"text",
       "contenttext":[
         "昆系列：柴烧烟火，昆仑煮雪木调清冽。"
@@ -3204,6 +3477,8 @@
       "type":"img",
       "src":"/image/works/mixplace/tit05.gif",
       "tit":null
+    },{
+      "type":"blank"
     },{
       "type":"text",
       "contenttext":[
@@ -3214,6 +3489,8 @@
       "src":"/image/works/mixplace/tit06.gif",
       "tit":null
     },{
+      "type":"blank"
+    },{
       "type":"text",
       "contenttext":[
         "裸系列：清泉浴后，自然纯粹，天地间纯净空灵。"
@@ -3222,6 +3499,8 @@
       "type":"img",
       "src":"/image/works/mixplace/tit07.gif",
       "tit":null
+    },{
+      "type":"blank"
     },{
       "type":"text",
       "contenttext":[
@@ -3243,6 +3522,8 @@
       "type":"img",
       "src":"/image/works/mixplace/tit11.gif",
       "tit":null
+    },{
+      "type":"blank"
     },{
       "type":"text",
       "contenttext":[
@@ -3270,6 +3551,8 @@
       "src":"/image/works/mixplace/tit13.gif",
       "tit":null
     },{
+      "type":"blank"
+    },{
       "type":"text",
       "contenttext":[
         "数字藏品「瑶兔拾月」为本疗愈馆的金秋限定特展。",
@@ -3285,6 +3568,8 @@
       "src":"/image/works/mixplace/tit14.jpg",
       "tit":null
     },{
+      "type":"blank"
+    },{
       "type":"text",
       "contenttext":[
         "来到展览的终曲，赠你一支纪念签，愿每位观展者生活浸润诗意，清香弥漫。"
@@ -3293,6 +3578,8 @@
       "type":"video",
       "src":"/image/works/mixplace/tit15.mp4",
       "tit":null
+    },{
+      "type":"blank"
     },{
       "type":"text",
       "contenttext":[
@@ -3512,15 +3799,19 @@
         "src":"/image/works/taobao.superwindow/tit01.png",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
-        "tit":"01 一扇神奇的窗户",
+        "tit":"01 BACKGROUND 一扇神奇的窗户",
         "contenttext":[
-          "从前的超级视窗是一扇装在淘宝首页的安静窗户，窗内的静止世界每三秒钟就会进行一次切换。"
+          "<br/>从前的超级视窗是一扇装在淘宝首页的安静窗户，窗内的静止世界每三秒钟就会进行一次切换。"
         ]
       },{
         "type":"img",
         "src":"/image/works/taobao.superwindow/tit02.gif",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -3529,14 +3820,16 @@
         ]
       },{
         "type":"text",
-        "tit":"02 窗外的世界",
+        "tit":"02 SCENES 窗外的世界",
         "contenttext":[
-          "我们从森林出发，建了一座融合工业风和自然感的森林咖啡馆；运动广场运用大胆的撞色和夸张的造型，活力无限；光影流转，酒杯轻摇，欢迎来到微醺酒吧；沙漠中的歌声是浸润万物的水源。"
+          "<br/>我们从森林出发，建了一座融合工业风和自然感的森林咖啡馆；运动广场运用大胆的撞色和夸张的造型，活力无限；光影流转，酒杯轻摇，欢迎来到微醺酒吧；沙漠中的歌声是浸润万物的水源。"
         ]
       },{
         "type":"img",
         "src":"/image/works/taobao.superwindow/tit03.jpg",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -3547,15 +3840,19 @@
         "src":"/image/works/taobao.superwindow/tit04.jpg",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
-        "tit":"03 超级体验官",
+        "tit":"03 CHARACTER 超级体验官",
         "contenttext":[
-          "世界初步建成，我们派出大力妹作为体验官进入超级视窗实地探访。"
+          "<br/>世界初步建成，我们派出大力妹作为体验官进入超级视窗实地探访。"
         ]
       },{
         "type":"img",
         "src":"/image/works/taobao.superwindow/tit05.gif",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -3563,15 +3860,17 @@
         ]
       },{
         "type":"text",
-        "tit":"04 空间巡游",
+        "tit":"04 SCENE-SWITCHING 空间巡游",
         "contenttext":[
-          "跌入奇境中的大力妹也没忘记她的重要任务，尝试修补轮播转场之间小卡顿。",
+          "<br/>跌入奇境中的大力妹也没忘记她的重要任务，尝试修补轮播转场之间小卡顿。",
           "旋转杯柄，遮挡屏幕，待杯子立稳，场景已在不知不觉中切换。"
         ]
       },{
         "type":"img",
         "src":"/image/works/taobao.superwindow/tit06.gif",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -3582,6 +3881,8 @@
         "src":"/image/works/taobao.superwindow/tit07.gif",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "翻转墙面，扭转视角，90度的墙角恰好衔接起两个画面。"
@@ -3591,6 +3892,8 @@
         "src":"/image/works/taobao.superwindow/tit08.gif",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "大力妹用力拉扯绳索，下一个画面被顺势带出。"
@@ -3599,6 +3902,8 @@
         "type":"img",
         "src":"/image/works/taobao.superwindow/tit09.gif",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -3610,6 +3915,8 @@
         "src":"/image/works/taobao.superwindow/tit10.gif",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "至此，升级之后的超级视窗，一起先睹为快！"
@@ -3619,25 +3926,29 @@
         "src":"/image/works/taobao.superwindow/tit11.gif",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "碎片式的小场景拼凑成一个夏日冒险的大故事，带大家回味过去无比热烈，抑或是不太完美的夏日。"
         ]
       },{
         "type":"text",
-        "tit":"05 破窗而出",
+        "tit":"05 DETAIL 破窗而出",
         "contenttext":[
-          "一些元素无法自如控制魔力，冲破窗户框架的限制，肆意飞在窗外。"
+          "<br/>一些元素无法自如控制魔力，冲破窗户框架的限制，肆意飞在窗外。"
         ]
       },{
         "type":"img",
         "src":"/image/works/taobao.superwindow/tit12.gif",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
-        "tit":"06 完整旅程",
+        "tit":"06 SUMMARY 完整旅程",
         "contenttext":[
-          "超级视窗经过精心升级，现成为拯救无趣生活的新地标。你被好心的神奇窗户选中啦，快来看看！"
+          "<br/>超级视窗经过精心升级，现成为拯救无趣生活的新地标。你被好心的神奇窗户选中啦，快来看看！"
         ]
       },{
         "type":"video",
@@ -3663,6 +3974,8 @@
         "src":"/image/works/mcdonald.nft/tit01.jpg",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "号外号外，听说有一枚咔滋新星横空出世，",
@@ -3671,14 +3984,16 @@
         ]
       },{
         "type":"text",
-        "tit":"01 紧锣密鼓筹备中",
+        "tit":"01 PREPARATION 紧锣密鼓筹备中",
         "contenttext":[
-          "此次麦麦咔滋脆虚拟宇宙公演将以数字藏品的形式呈现。我们为它打造了一个音乐厅格调的流行舞台，黑金配色简约大气。灯光师在舞台上方排列麦当劳厂牌代表性的M型灯柱，星光闪耀。"
+          "<br/>此次麦麦咔滋脆虚拟宇宙公演将以数字藏品的形式呈现。我们为它打造了一个音乐厅格调的流行舞台，黑金配色简约大气。灯光师在舞台上方排列麦当劳厂牌代表性的M型灯柱，星光闪耀。"
         ]
       },{
         "type":"img",
         "src":"/image/works/mcdonald.nft/tit02.gif",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -3691,9 +4006,9 @@
         "tit":null
       },{
         "type":"text",
-        "tit":"02 公演造势中",
+        "tit":"02 PREHEATING 公演造势中",
         "contenttext":[
-          "宣发组为公演打造亮眼海报，从预热到官宣，为巨星大力造势。"
+          "<br/>宣发组为公演打造亮眼海报，从预热到官宣，为巨星大力造势。"
         ]
       },{
         "type":"img",
@@ -3702,6 +4017,8 @@
       },{
         "type":"tips",
         "tit":"<官宣海报>"
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -3712,10 +4029,12 @@
         "src":"/image/works/mcdonald.nft/tit05.jpg",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
-        "tit":"03 公演进行时",
+        "tit":"03 PREFORMING 公演进行时",
         "contenttext":[
-          "公演即将开始，场馆外人头攒动，兴奋的观众们通过H5入口在信息牌指引下有序进场观演。"
+          "<br/>公演即将开始，场馆外人头攒动，兴奋的观众们通过H5入口在信息牌指引下有序进场观演。"
         ]
       },{
         "type":"text",
@@ -3727,15 +4046,19 @@
         "src":"/image/works/mcdonald.nft/tit06.mp4",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
-        "tit":"04 幕后花絮",
+        "tit":"04 GAG REEL 幕后花絮",
         "contenttext":[
-          "麦麦咔滋脆鸡腿堡实在是人气火爆，大街小巷都能听到人们对它的讨论。"
+          "<br/>麦麦咔滋脆鸡腿堡实在是人气火爆，大街小巷都能听到人们对它的讨论。"
         ]
       },{
         "type":"img",
         "src":"/image/works/mcdonald.nft/tit07.jpg",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -3748,6 +4071,8 @@
         "type":"img",
         "src":"/image/works/mcdonald.nft/tit08.jpg",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -3772,7 +4097,11 @@
         "type":"img",
         "src":"/image/works/taobao.memory/tit01.png",
         "tit":null
-      },{
+      },
+      {
+        "type":"blank"
+      },
+      {
         "type":"text",
         "contenttext":[
           "相信淘宝应该是许多人的回忆载体。",
@@ -3781,9 +4110,9 @@
         ]
       },{
         "type":"text",
-        "tit":"PART 1：淘宝的心意电影院",
+        "tit":"01 WELCOME 淘宝的心意电影院",
         "contenttext":[
-          "安迪·沃霍尔说，每个人都可以当15分钟名人。",
+          "<br/>安迪·沃霍尔说，每个人都可以当15分钟名人。",
           "于是，淘宝邀请所有用户，在这个落叶归根的金秋时节里，在老式放映机的韵味之中，细细品味那些由自己出镜的温情“剁手故事”。"
         ]
       },{
@@ -3795,10 +4124,12 @@
         "src":"/image/works/taobao.memory/tit03.gif",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
-        "tit":"PART 2：心意电影放映中",
+        "tit":"02 FOR EXAMPLE 心意电影放映中",
         "contenttext":[
-          "而我司最有名的欧总，在回忆起这个地球剁爪app时，也是感慨万千。",
+          "<br/>而我司最有名的欧总，在回忆起这个地球剁爪app时，也是感慨万千。",
           "这部由欧总出演的猫生大电影，也正呈现了欧总这些年来的成长和成功！"
         ]
       },{
@@ -3908,12 +4239,14 @@
         "tit":null
       },{
         "type":"text",
-        "tit":"PART 3：影院还有伴手礼",
+        "tit":"03 CERTIFICATE 影院还有伴手礼",
         "contenttext":[]
       },{
         "type":"img",
         "src":"/image/works/taobao.memory/tit22.webp",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -3925,6 +4258,8 @@
         "src":"/image/works/taobao.memory/tit23.jpg",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "信封打开 ，是你和淘宝的关系见证。",
@@ -3935,10 +4270,12 @@
         "src":"/image/works/taobao.memory/tit24.jpg",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
-        "tit":"PART 4：与插画师联手打造电影墙",
+        "tit":"04 POSTERS 与插画家联手打造电影墙",
         "contenttext":[
-          "除了心意满满的电影院，淘宝还联合独立艺术家张大圣、贾叽叽、啾啾儿，创作了四幅心意为主题的海报。",
+          "<br/>除了心意满满的电影院，淘宝还联合独立艺术家张大圣、贾叽叽、啾啾儿，创作了四幅心意为主题的海报。",
           "每张针对不同的类别，运用不同元素所构成的心形，让独特的视角传递“心意大爆炸”概念。"
         ]
       },{
@@ -3958,10 +4295,12 @@
         "src":"/image/works/taobao.memory/tit28.jpg",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
-        "tit":"PART 5：号外号外：心意电影好评如潮",
+        "tit":"05 DATA RESULTS 号外号外：心意电影好评如潮",
         "contenttext":[
-          "12月2号上线的淘宝回忆杀，在淘宝平台上的影片票房，欧总不愿具体透露。",
+          "<br/>12月2号上线的淘宝回忆杀，在淘宝平台上的影片票房，欧总不愿具体透露。",
           "但他说：真的很高～",
           "截止到文章发送前，微博超话点击量高达1.2亿，讨论热度高居不下。"
         ]
@@ -3970,18 +4309,22 @@
         "src":"/image/works/taobao.memory/tit29.jpg",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "而欧总也凭借本片，已经获得金喵奖的年度提名！"
         ]
       },{
         "type":"text",
-        "tit":"PART 6：定格时光回顾心意",
+        "tit":"06 GOODBYE 定格时光回顾心意",
         "contenttext":[]
       },{
         "type":"img",
         "src":"/image/works/taobao.memory/tit30.jpg",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -4004,7 +4347,11 @@
         "type":"img",
         "src":"/image/works/tmall.live/tit01.jpg",
         "tit":null
-      },{
+      },
+      {
+        "type":"blank"
+      },
+      {
         "type":"text",
         "contenttext":[
           "说起做家务你会想到什么？免费劳动？还是鸡毛蒜皮？总之很难跟「潮」联想在一起吧？",
@@ -4012,9 +4359,9 @@
         ]
       },{
         "type":"text",
-        "tit":"PART 1：夏日就该冒点险",
+        "tit":"01 BACKGROUND 夏日就该冒点险",
         "contenttext":[
-          "接到需求的时候，正值夏日炎炎，本该出门浪的潮人们却被疫情困在家。",
+          "<br/>接到需求的时候，正值夏日炎炎，本该出门浪的潮人们却被疫情困在家。",
           "于是我们突发奇想，做家务时想象一场冒险，是否就等于让灵魂去旅行？",
           "不受限于环境和时间的自我创作及享受，不正是最硬核的「潮」吗？"
         ]
@@ -4032,6 +4379,8 @@
         "src":"/image/works/tmall.live/tit03.mp4",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "相传，在古老的桑玛大陆，经过了上古时期的火山喷发，沧海桑田数千年，大陆附近海域中形成了众多神奇小岛。",
@@ -4042,6 +4391,8 @@
         "type":"img",
         "src":"/image/works/tmall.live/tit04.jpg",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -4054,13 +4405,17 @@
         "src":"/image/works/tmall.live/tit05.gif",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
-        "tit":"PART 2：夏日奇幻冒险",
+        "tit":"02 TVC VIDEO 夏日奇幻冒险",
         "contenttext":[]
       },{
         "type":"img",
         "src":"/image/works/tmall.live/tit06.gif",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -4074,6 +4429,8 @@
         "src":"/image/works/tmall.live/tit07.gif",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "和拖把一起跃动的瞬间，你打通了现实和想象，进入酷夏群岛中的摇滚岛。"
@@ -4082,6 +4439,8 @@
         "type":"img",
         "src":"/image/works/tmall.live/tit08.gif",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -4096,6 +4455,8 @@
         "type":"scene",
         "tit":"2、水果岛<br/>夏日缤纷水果水域"
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "走下酣畅淋漓的音乐现场，你乘坐着酷夏群岛专用小舟，开始前往酷夏群岛的第二站——水果岛。"
@@ -4104,6 +4465,8 @@
         "type":"img",
         "src":"/image/works/tmall.live/tit10.gif",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -4114,6 +4477,8 @@
         "src":"/image/works/tmall.live/tit11.gif",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "不要紧张，快掏出你的第二件神器——厨房纸来擦亮天空吧！"
@@ -4122,6 +4487,8 @@
         "type":"img",
         "src":"/image/works/tmall.live/tit12.gif",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -4132,6 +4499,8 @@
         "type":"img",
         "src":"/image/works/tmall.live/tit13.gif",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -4146,6 +4515,8 @@
         "type":"scene",
         "tit":"3、缤纷岛<br/>酷夏炫彩阳光沙滩"
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "诶，这不就是你的第三站——缤纷岛吗？这不是巧了吗不是？"
@@ -4155,6 +4526,8 @@
         "src":"/image/works/tmall.live/tit15.gif",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "打了一天工的你，吹着惬意的小海风，享受着度假的小阳光……但是总觉得哪里不太对的亚子……"
@@ -4163,6 +4536,8 @@
         "type":"img",
         "src":"/image/works/tmall.live/tit16.gif",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -4174,6 +4549,8 @@
         "src":"/image/works/tmall.live/tit17.gif",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "Magic！凌乱的颜色在吸色片的支配之下，回归到原生的精彩。"
@@ -4182,6 +4559,8 @@
         "type":"img",
         "src":"/image/works/tmall.live/tit18.gif",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -4192,6 +4571,8 @@
         "src":"/image/works/tmall.live/tit19.gif",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "仿佛做了一场仲夏之梦，但是一切都历历在目。",
@@ -4200,9 +4581,9 @@
         ]
       },{
         "type":"text",
-        "tit":"PART 3：夏日定格",
+        "tit":"03 POSTERS 夏日定格",
         "contenttext":[
-          "是的，以上其实是我们为天猫潮 Live 家清用品打造的一支 TVC。",
+          "<br/>是的，以上其实是我们为天猫潮 Live 家清用品打造的一支 TVC。",
           "我们把家务用品本身的属性提炼并附加奇奇怪怪的用途，用一种活泼的叙事方式来解构「做家务」这件看起来跟「潮」毫无关系的事。",
           "甚至，潮玩家眼里的脏乱差，也可以换个视角解构。"
         ]
@@ -4210,6 +4591,8 @@
         "type":"img",
         "src":"/image/works/tmall.live/tit20.gif",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -4224,6 +4607,8 @@
         "src":"/image/works/tmall.live/tit22.jpg",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "在每张针对不同产品和场景的海报中，我们构筑了不同的想象空间。",
@@ -4231,9 +4616,9 @@
         ]
       },{
         "type":"text",
-        "tit":"PART 4：当一个潮玩家",
+        "tit":"04 THANKS FOR WATCHING 当一个潮玩家",
         "contenttext":[
-          "项目初期脑暴时，由于产品性质，我们不得不撕掉对于「潮」的刻板印象，挖掘更多内核思考：潮的人，连做家务也要潮！",
+          "<br/>项目初期脑暴时，由于产品性质，我们不得不撕掉对于「潮」的刻板印象，挖掘更多内核思考：潮的人，连做家务也要潮！",
           "于是有了「潮玩家把家玩潮」这样值得玩味的概念。",
           "在视觉执行时，我们通过 TVC 和海报传达：「潮」不仅限于外表和艺术表达，「潮」到骨子里的人，连生活中最平凡的家务事都能做得不一样！"
         ]
@@ -4241,6 +4626,8 @@
         "type":"img",
         "src":"/image/works/tmall.live/tit23.gif",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -4433,7 +4820,11 @@
         "type":"img",
         "src":"/image/works/ali.adic/02.png",
         "tit":null
-      },{
+      },
+      {
+        "type":"blank"
+      },
+      {
         "type":"text",
         "contenttext":[
           "Alibaba design商品设计孵化中心基于用户洞察和设计转译，联合天猫淘宝和全球优质设计创新资源，服务广大商家更高效地落地新品开发，让成功上市一款好商品成为一件更有确定性的事。",
@@ -4444,6 +4835,8 @@
         "src":"/image/works/ali.adic/03.gif",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "我们受邀为Alibaba design商品设计孵化中心制作一条用于介绍业务的TVC，让商家迅速理解",
@@ -4453,6 +4846,8 @@
         "type":"img",
         "src":"/image/works/ali.adic/04.png",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -4472,6 +4867,8 @@
         "src":"/image/works/ali.adic/07.gif",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "然后，用平行剪辑方式，从3个设计机构的视角出发，针对商家的需求，给出对应的设计态度和具体的设计亮点。",
@@ -4490,6 +4887,8 @@
         "src":"/image/works/ali.adic/10.gif",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "最后，把商家和设计机构之间留白的部分——也就是Alibaba design商品设计孵化中心的桥梁作用，通过动画演绎完整，完成了一次关于商业的“本格推理”游戏。",
@@ -4503,6 +4902,8 @@
         "type":"img",
         "src":"/image/works/ali.adic/12.gif",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -4533,6 +4934,8 @@
         "src":"/image/works/ali.adic/18.jpg",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "这支TVC是我们一个难得的尝试，由于项目时间比较紧张，神经紧绷了许久的设计师在商家大会现场感受到了大受好评的播出反响，当场喜极而泣，怒干13个shots并流下热泪。"
@@ -4562,6 +4965,8 @@
         "src":"/image/works/ali.adic/24.jpg",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "玩笑归玩笑，在制作的期间，其实我们也深刻理解到了Alibaba design商品设计孵化中心的愿景和价值观：希望好的商品可以让每一个人的生活更美好一点，让好设计更值钱一点，让企业的生意更好做一点。"
@@ -4578,6 +4983,8 @@
         "type":"img",
         "src":"/image/works/ali.adic/27.gif",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -4642,10 +5049,13 @@
         "tit":null
       },
       {
+        "type":"blank"
+      },
+      {
         "type":"text",
-        "tit":"PART1:挑战",
+        "tit":"01 BACKGROUND 挑战",
         "contenttext":[
-          "属于网络原住民的00后，属于全民种草的一代，他们乐于向身边的朋友以及网络世界表达自己的观点及态度。",
+          "<br/>属于网络原住民的00后，属于全民种草的一代，他们乐于向身边的朋友以及网络世界表达自己的观点及态度。",
           "因此对于00后来说，这是个全民可KOL的时代，并且小红书、抖音等种草平台较成熟，天猫国际如何收割有效博主成为这次招募计划的挑战。"
         ]
       },
@@ -4655,10 +5065,13 @@
         "tit":null
       },
       {
+        "type":"blank"
+      },
+      {
         "type":"text",
-        "tit":"PART2:机会",
+        "tit":"02 INSIGHT 机会",
         "contenttext":[
-          "我们发现虽然种草平台成熟，但也因此趋于饱和，平台上多是经验丰富的博主，经验缺乏以及经济实力相对薄弱的学生难以收获流量及肯定。",
+          "<br/>我们发现虽然种草平台成熟，但也因此趋于饱和，平台上多是经验丰富的博主，经验缺乏以及经济实力相对薄弱的学生难以收获流量及肯定。",
           "并且各大平台内容趋于雷同，Z时代更细化搜罗新奇有趣的东西去彰显自我的独特性，而天猫国际的小众探索感更能够满足这一需求。"
         ]
       },
@@ -4667,10 +5080,12 @@
         "src":"/image/works/tmall.global/tit03.png",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
-        "tit":"PART3:策略",
+        "tit":"03 STRATEGY 策略",
         "contenttext":[
-          "因此这次的招募活动中，我们更想告诉Z时代的是，在天猫国际种草，除了能获得奖品外（奖品最高有5w现金啊啊啊啊啊啊～），更能体现自己的个性与价值，并在价值感下提炼了四个主要利益点。"
+          "<br/>因此这次的招募活动中，我们更想告诉Z时代的是，在天猫国际种草，除了能获得奖品外（奖品最高有5w现金啊啊啊啊啊啊～），更能体现自己的个性与价值，并在价值感下提炼了四个主要利益点。"
         ]
       },
       {
@@ -4678,31 +5093,37 @@
         "src":"/image/works/tmall.global/tit04.png",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
-        "tit":"PART4:创意",
+        "tit":"04 CONCEPT 创意",
         "contenttext":[
-          "在创意层面我们想用一个标志性的符号去体现种草的价值感，以及有号召力又不落俗套的动作去体现招募感。"
+          "<br/>在创意层面我们想用一个标志性的符号去体现种草的价值感，以及有号召力又不落俗套的动作去体现招募感。"
         ]
       },{
         "type":"text",
         "tit":"好好学习，天天种草的全球好物课代表",
         "contenttext":[
-          "这一届年轻一代善于种草的同学，并不是草的搬运工，他们会对比、分析、试用、整理，自己消化后才分享真正好用的给到别人，他们像班里的课代表，抄他们作业不会错。"
+          "<br/>这一届年轻一代善于种草的同学，并不是草的搬运工，他们会对比、分析、试用、整理，自己消化后才分享真正好用的给到别人，他们像班里的课代表，抄他们作业不会错。"
         ]
       },{
         "type":"img",
         "src":"/image/works/tmall.global/tit05.jpg",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "tit":"校园理想生活这一题，会的请举手！",
         "contenttext":[
-          "明确了全球好物课代表这一主题，我们利用课堂上标志性的举手动作来增加这次战役的号召感。"
+          "<br/>明确了全球好物课代表这一主题，我们利用课堂上标志性的举手动作来增加这次战役的号召感。"
         ]
       },{
         "type":"img",
         "src":"/image/works/tmall.global/tit06.gif",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -4713,6 +5134,8 @@
         "src":"/image/works/tmall.global/tit07.png",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "美妆博主我们选择了如辣目洋子般微胖但自信的女孩。"
@@ -4721,6 +5144,8 @@
         "type":"img",
         "src":"/image/works/tmall.global/tit08.gif",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -4731,6 +5156,8 @@
         "src":"/image/works/tmall.global/tit09.gif",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "宅女我们选择了如周也般干净素净，放松自在的女生形象。"
@@ -4739,6 +5166,8 @@
         "type":"img",
         "src":"/image/works/tmall.global/tit10.gif",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
@@ -4749,6 +5178,8 @@
         "src":"/image/works/tmall.global/tit11.gif",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
         "contenttext":[
           "为了让模特们举手举出个性，举出风采，举出真善美，现场导演以及工作人员都疯了，都给我把手举起来！！！"
@@ -4758,13 +5189,17 @@
         "src":"/image/works/tmall.global/tit12.gif",
         "tit":null
       },{
+        "type":"blank"
+      },{
         "type":"text",
-        "tit":"PART5:结果",
+        "tit":"05 DATA RESULTS 结果",
         "contenttext":[]
       },{
         "type":"img",
         "src":"/image/works/tmall.global/tit13.png",
         "tit":null
+      },{
+        "type":"blank"
       },{
         "type":"text",
         "contenttext":[
