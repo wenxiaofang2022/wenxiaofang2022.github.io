@@ -14,6 +14,11 @@
       },
       {
         "type":"img",
+        "src":"/image/loading.png",
+        "tit":null
+      },
+      {
+        "type":"img",
         "src":"/image/works/lego/01.png",
         "tit":null
       },
