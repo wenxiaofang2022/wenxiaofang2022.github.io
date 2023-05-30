@@ -1,52 +1,52 @@
 [
   {
+    "title":"粒子镂空球体",
+    "type":"threejs",
+    "link":"/threejs/day01/demo0"
+  },
+  {
     "title":"three.js小游戏源码 大灰狼追兔子",
     "type":"threejs",
-    "link":"/threejs/demo1"
+    "link":"/threejs/day01/demo1"
   },
   {
     "title":"鲜花文字效果",
     "type":"threejs",
-    "link":"/threejs/demo2"
+    "link":"/threejs/day01/demo2"
   },
   {
     "title":"元素周期表",
     "type":"threejs",
-    "link":"/threejs/demo3"
+    "link":"/threejs/day01/demo3"
   },
   {
     "title":"水面动态特效",
     "type":"threejs",
-    "link":"/threejs/demo4"
+    "link":"/threejs/day01/demo4"
   },
   {
     "title":"立体空间网页特效",
     "type":"threejs",
-    "link":"/threejs/demo5"
+    "link":"/threejs/day01/demo5"
   },
   {
     "title":"粒子3d交互式动画",
     "type":"threejs",
-    "link":"/threejs/demo6"
+    "link":"/threejs/day01/demo6"
   },
   {
     "title":"地球世界轮廓线条",
     "type":"threejs",
-    "link":"/threejs/demo7"
+    "link":"/threejs/day01/demo7"
   },
   {
     "title":"焦外成像特效",
     "type":"threejs",
-    "link":"/threejs/demo8"
+    "link":"/threejs/day01/demo8"
   },
   {
     "title":"炫酷文本粒子",
     "type":"threejs",
-    "link":"/threejs/demo9"
-  },
-  {
-    "title":"粒子镂空球体",
-    "type":"threejs",
-    "link":"/threejs/demo10"
+    "link":"/threejs/day01/demo9"
   }
 ]

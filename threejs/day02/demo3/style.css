@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  overflow: hidden;
+  background-color: #111;
+}
+canvas {
+  position: absolute;
+}
+.summary {
+  position: absolute;
+  top: 1em;
+  right: 1em;
+  left: 1em;
+  z-index: 100000;
+  color: #fff;
+  font-family: 'source code pro';
+}
+h1 {
+  font-size: 1.5em;
+  font-weight: 100;
+}
