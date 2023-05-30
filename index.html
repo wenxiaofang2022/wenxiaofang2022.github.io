@@ -9,6 +9,7 @@
   <link rel="stylesheet/less" href="./index.less"/>
   <script type="text/javascript" src="./js/less.min.js"></script>
   <script type="text/javascript" src="./js/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="./threejs.json"></script>
 </head>
 
 <body>
@@ -29,98 +30,40 @@
       </div>
     </div>
     <div class="website-title"><span>Winnie</span>的个人网站</div>
-    <div class="projects-box">
-      <div class="project-slide">
-        <div class="content">
-          <div class="slider">
-            <a href="/threejs/demo1/"><img src="./imgs/cover/01.webp"/></a>
-            <a><img src="./imgs/cover/02.webp"/></a>
-            <a><img src="./imgs/cover/03.webp"/></a>
-            <a><img src="./imgs/cover/04.webp"/></a>
-            <a><img src="./imgs/cover/05.webp"/></a>
-          </div>
-        </div>
-      </div>
-      <div class="project-slide">
-        <div class="content">
-          <div class="slider">
-            <a><img src="./imgs/cover/06.webp"/></a>
-            <a><img src="./imgs/cover/07.webp"/></a>
-            <a><img src="./imgs/cover/08.webp"/></a>
-            <a><img src="./imgs/cover/09.webp"/></a>
-            <a><img src="./imgs/cover/10.webp"/></a>
-          </div>
-        </div>
-      </div>
-      <div class="project-slide">
-        <div class="content">
-          <div class="slider">
-            <a><img src="./imgs/cover/11.webp"/></a>
-            <a><img src="./imgs/cover/12.webp"/></a>
-            <a><img src="./imgs/cover/13.png"/></a>
-            <a><img src="./imgs/cover/14.webp"/></a>
-            <a><img src="./imgs/cover/15.webp"/></a>
-          </div>
-        </div>
-      </div>
-      <div class="project-slide">
-        <div class="content">
-          <div class="slider">
-            <a><img src="./imgs/cover/16.webp"/></a>
-            <a><img src="./imgs/cover/17.webp"/></a>
-            <a><img src="./imgs/cover/18.webp"/></a>
-            <a><img src="./imgs/cover/19.webp"/></a>
-            <a><img src="./imgs/cover/20.webp"/></a>
-          </div>
-        </div>
-      </div>
-      <div class="project-slide">
-        <div class="content">
-          <div class="slider">
-            <a><img src="./imgs/cover/01.webp"/></a>
-            <a><img src="./imgs/cover/02.webp"/></a>
-            <a><img src="./imgs/cover/03.webp"/></a>
-            <a><img src="./imgs/cover/04.webp"/></a>
-            <a><img src="./imgs/cover/05.webp"/></a>
-          </div>
-        </div>
-      </div>
-      <div class="project-slide">
-        <div class="content">
-          <div class="slider">
-            <a><img src="./imgs/cover/06.webp"/></a>
-            <a><img src="./imgs/cover/07.webp"/></a>
-            <a><img src="./imgs/cover/08.webp"/></a>
-            <a><img src="./imgs/cover/09.webp"/></a>
-            <a><img src="./imgs/cover/10.webp"/></a>
-          </div>
-        </div>
-      </div>
-      <div class="project-slide">
-        <div class="content">
-          <div class="slider">
-            <a><img src="./imgs/cover/11.webp"/></a>
-            <a><img src="./imgs/cover/12.webp"/></a>
-            <a><img src="./imgs/cover/13.png"/></a>
-            <a><img src="./imgs/cover/14.webp"/></a>
-            <a><img src="./imgs/cover/15.webp"/></a>
-          </div>
-        </div>
-      </div>
-      <div class="project-slide">
-        <div class="content">
-          <div class="slider">
-            <a><img src="./imgs/cover/16.webp"/></a>
-            <a><img src="./imgs/cover/17.webp"/></a>
-            <a><img src="./imgs/cover/18.webp"/></a>
-            <a><img src="./imgs/cover/19.webp"/></a>
-            <a><img src="./imgs/cover/20.webp"/></a>
-          </div>
-        </div>
-      </div>
-    </div>
+    <div class="projects-box" id="projects_box"></div>
   </div>
   <script type="text/javascript" src="./js/index.js"></script>
+  <script type="text/javascript">
+    
+    function split_arr(arr,len){
+      var a_len = arr.length;
+      var result = [];
+      for(var i=0;i<a_len;i+=len){
+        result.push(arr.slice(i,i+len));
+      }
+      return result;
+    }
+
+    // console.log("LinkData",LinkData);
+    var tmparr = LinkData.data;
+    var step = Math.ceil(tmparr.length/8);
+    console.log("step",step);
+    var data = split_arr(tmparr,step);
+    console.log("data",data);
+    var tmphtml = ``;
+    for(var m=0;m<8;m++){
+      tmphtml = tmphtml+`<div class="project-slide">
+        <div class="content">
+        <div class="slider">
+      `;
+      for(var n=0;n<data[m].length;n++){
+        tmphtml = tmphtml+`<a href="${data[m][n].link}"><img src="./imgs/cover/16.webp"/></a>`;
+      }
+      tmphtml = tmphtml+`</div></div></div>`;
+    }
+    var projects_box = document.getElementById("projects_box");
+    projects_box.innerHTML = tmphtml;
+  </script>
 </body>
 </html>
 <!-- 
